@@ -1,0 +1,24 @@
+* {
+    text-decoration: none;
+}
+.root-container {
+    padding-top: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.root-container > div {
+    text-align: center;
+}
+
+.start-choise {
+    font-size: 48px;
+    cursor: pointer;
+    padding: 0 30px;
+
+}
+.inpData-y{
+    width: 30px;
+}
+.inpData-m{
+    width: 30px;
+}
